@@ -1,1 +1,6 @@
-# Add your variables here
+10
+5
+15
+5
+50
+2
